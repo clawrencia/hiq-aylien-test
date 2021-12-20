@@ -1,5 +1,3 @@
-pandas
-numpy
 requests
 wget
 aylien-news-api
