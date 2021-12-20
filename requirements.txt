@@ -1,4 +1,4 @@
 requests
 aylien-news-api
 nanoid
-
+simplejson
