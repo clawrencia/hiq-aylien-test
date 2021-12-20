@@ -1,5 +1,5 @@
-from pipeline import fetch_stories
-from pipeline import cron_db_methods
+from . import fetch_stories
+from . import cron_db_methods
 import time
 import json
 import logging

@@ -1,5 +1,4 @@
 requests
-wget
 aylien-news-api
 nanoid
 
