@@ -1,17 +1,7 @@
-tqdm
-joblib
 pandas
 numpy
+requests
 wget
-alembic==1.4.3
-aylien-news-api==4.3.1
-#psycopg2-binary
-python-dateutil==2.8.1
-requests==2.25.0
-requests-futures==1.0.0
-urllib3==1.26.2
-zipp==3.4.0
-boto3
+aylien-news-api
 nanoid
-simplejson
 
